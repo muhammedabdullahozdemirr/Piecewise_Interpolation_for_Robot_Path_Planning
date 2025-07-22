@@ -1,0 +1,4 @@
+from interpolation.newton import newton_interpolate
+from interpolation.lagrange import lagrange_interpolate
+from interpolation.cubic_spline import cubic_spline_interpolate
+from interpolation.b_spline import b_spline_interpolate
